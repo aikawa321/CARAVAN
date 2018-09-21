@@ -103,6 +103,9 @@ header .headline{
 	width:230px;
 	float:left;
 }
+.sidebar-headline,.instagram-headline,.categories-headline{
+	
+}
 footer{
 	width: 100%;
 	height: 120px;
